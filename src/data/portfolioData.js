@@ -151,7 +151,7 @@ export const projectsData = [
       "Conversational training log with adaptive recovery reminders",
       "Real-time progression tracking and habit reinforcement algorithms"
     ],
-    githubUrl: "https://github.com/abhinav-dev/gun-ai-training-assistant",
+    githubUrl: "https://github.com/Abhinav1-2-3/Gun",
     liveDemoUrl: "https://gun-ai-concept.example.com",
     previewImage: "/assets/reference-portrait.jpg"
   },
